@@ -2,7 +2,7 @@
 
 ## Links
 
-Heroku Link: https://dashboard.heroku.com/apps/eugenebootcampnotetaker
+Heroku Link: https://eugenebootcamp-notetaker.herokuapp.com/
 
 Github Link: https://github.com/leonghh/Week-11-HW
 
